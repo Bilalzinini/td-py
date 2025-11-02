@@ -1,0 +1,8 @@
+git add moraha smiya dyal filllll
+
+
+git commit -m "comenter"
+  
+
+  git push da5all
+  
